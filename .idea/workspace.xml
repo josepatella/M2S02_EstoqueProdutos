@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56d4881c-319a-4496-b4f0-44cf2e12f8ab" name="Changes" comment="Atributos nome, preço e quantidade criados.">
-      <change beforePath="$PROJECT_DIR$/src/Entities/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Produtos.java" afterDir="false" />
+    <list default="true" id="56d4881c-319a-4496-b4f0-44cf2e12f8ab" name="Changes" comment="Produto adicionados ao estoque.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EstoqueProdutos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690817921246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Produto adicionados ao estoque.">
+      <option name="closed" value="true" />
+      <created>1690818190342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690818190342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +124,7 @@
     <MESSAGE value="Pacote Entities criado e classe produtos." />
     <MESSAGE value="Produto Instanciado." />
     <MESSAGE value="Atributos nome, preço e quantidade criados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atributos nome, preço e quantidade criados." />
+    <MESSAGE value="Produto adicionados ao estoque." />
+    <option name="LAST_COMMIT_MESSAGE" value="Produto adicionados ao estoque." />
   </component>
 </project>
