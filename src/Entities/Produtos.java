@@ -1,7 +1,7 @@
 package Entities;
 
 public class Produtos {
-    private String nome;
-    private double preco;
-    private int quantidade;
+    public String nome;
+    public double preco;
+    public int quantidade;
 }
