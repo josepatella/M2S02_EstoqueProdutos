@@ -23,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "josepatella"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="666bbd0e-3001-4698-81ed-b66009f00396" />
+        <option name="url" value="https://github.com/josepatella/M2S02_EstoqueProdutos.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2TLJoK1NLiNPFE2y37shA7avUF9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
